@@ -8,7 +8,7 @@ from langchain.callbacks import get_openai_callback
 from langchain.chains import LLMChain
 from streamlit.components.v1 import html
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 st.title("Flow Chart Creator")
 st.write("Enter the requirements and we will help you to generate flowchart from it!")
